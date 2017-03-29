@@ -1,0 +1,9 @@
+频道主页 hoho://href/group/list?figureId=38546086
+       hoho://href/group/list
+
+频道聊天 hoho://href/group/chat?groupId=116886700911&content=hello
+       hoho://href/group/topic?groupId=116886700911
+       hoho://href/group/members?groupId=116886700911
+       hoho://href/group/todo?groupId=116886700911
+       hoho://href/group/more?groupId=116886700911
+       hoho://href/group/settings?groupId=116886700911
