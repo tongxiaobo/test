@@ -1,6 +1,6 @@
 频道主页 
 ===
-- [hoho://href/group/list?figureId=38546086]()
+- [hohodev://href/group/list?figureId=38546086]()
 - [频道](hoho://href/group/list)
 
 频道聊天
