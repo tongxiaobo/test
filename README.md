@@ -1,6 +1,6 @@
 # test
 频道主页 hoho://href/group/list?figureId=38546086
-       [频道](hoho://href/group/list)
+       ![频道](hoho://href/group/list)
 
 频道聊天 [频道聊天](hoho://href/group/chat?groupId=116886700911&content=hello)
        [频道主题](hoho://href/group/topic?groupId=116886700911)
